@@ -15,8 +15,11 @@
 <br>
 
 - **기타 교육**
-  - POSTEC 청년 AI · Big Data 아카데미(MOOC) [→ 자세히 보기](https://github.com/ne-choi/study/tree/main/postech_mooc)
+  - POSTEC 청년 AI · Big Data 아카데미(MOOC) 
   - 기간: 2020.11.02 - 2021.01.15
+  - 포항공과대학교 총장 수료증 발급  
+  
+  - 수료 내역 [→ 자세히 보기](https://github.com/ne-choi/study/tree/main/postech_mooc)
     
 강의명|학습 시간|수료 일자
 |:--:|:--:|:--:|
