@@ -16,7 +16,8 @@
 
 - **기타 교육**
   - POSTEC 청년 AI · Big Data 아카데미(MOOC) 
-  - 기간: 2020.11.02 - 2021.01.15
+  - 기간: 2020.11.02 - 2021.01.15  
+  - 교육 시간: 103시간
   - 포항공과대학교 총장 수료증 발급  
   - 수료 내역 [→ 자세히 보기](https://github.com/ne-choi/study/tree/main/postech_mooc)
     
@@ -32,6 +33,7 @@
 Python 프로그래밍 Ⅰ|12시간|2020.12.14
 Python 프로그래밍 Ⅱ|12시간|2020.12.23
 컴퓨팅 사고 Ⅰ|4시간|2021.01.09
+컴퓨팅 사고 Ⅱ|4시간|2021.01.13
 특강_AI 입문|2시간|2020.12.10
 특강_Computer Vision 입문|1시간|2021.01.10
 
@@ -160,7 +162,7 @@ Python 프로그래밍 Ⅱ|12시간|2020.12.23
 - 결과: 158/287 (전체 참가 팀: 658팀)
 <br>
 
-:point_right: **2020 Kaggle Machine Learning & Data Science Survey(Kaggle_Survey_2020)** [→ 자세히 보기](https://github.com/ne-choi/project/tree/main/Kaggle_Survey_2020)
+:point_right: **2020 Kaggle Machine Learning & Data Science Survey** [→ 자세히 보기](https://github.com/ne-choi/project/tree/main/Kaggle_Survey_2020)  [→ 캐글에서 보기](https://www.kaggle.com/nechoi/the-future-of-ml-americans-vs-indians)
 - **언어 및 작업툴**: python, jupyter notebook
 - **인원**: 1명
 - **기간**: 2020.12.30 - 2021.01.06
