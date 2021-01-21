@@ -166,15 +166,15 @@ Computational Thinking Ⅱ|4시간|2021.01.13
 <br>
 
 :point_right: **2020 Kaggle Machine Learning & Data Science Survey** [→ 자세히 보기](https://github.com/ne-choi/project/tree/main/Kaggle_Survey_2020)  [→ 캐글에서 보기](https://www.kaggle.com/nechoi/the-future-of-ml-americans-vs-indians)
-- **언어 및 작업툴**: python, jupyter notebook
-- **인원**: 1명
-- **기간**: 2020.12.30 - 2021.01.06
-- **내용**
+- 언어 및 작업툴: python, jupyter notebook
+- 인원: 1명
+- 기간: 2020.12.30 - 2021.01.06
+- 내용
   - 캐글에서 진행하는 연례 데이터 과학 설문 조사 데이터에서 인사이트 도출하기
     - 주제 선정 자유  
-- **선정 주제**
-  - **"The future of ML (Americans vs Indians)"**  
-- **기여**: 데이터 전처리, 시각화 및 분석
+- 선정 주제
+  - "The future of ML (Americans vs Indians)"  
+- 기여: 데이터 전처리, 시각화 및 분석
 
 <br>
 
