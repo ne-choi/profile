@@ -177,9 +177,3 @@ Computational Thinking Ⅱ|4시간|2021.01.13
   - "The future of ML (Americans vs Indians)"  
 - 기여: 데이터 전처리, 시각화 및 분석
 <br>
-
-### Ⅵ. NLP
-#### 1. NLP 강의안 제작
-
-#### 2. NLP 논문 리뷰
-
