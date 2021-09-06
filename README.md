@@ -167,7 +167,6 @@ Computational Thinking Ⅱ|4시간|2021.01.13
   - "The future of ML (Americans vs Indians)"  
 - 기여: 데이터 전처리, 시각화 및 분석
 <br>
-<<<<<<< HEAD
 
 :point_right: **2021 금융 데이터 경진대회**  
 - 사용 언어: Python
@@ -185,6 +184,3 @@ Computational Thinking Ⅱ|4시간|2021.01.13
 #### 1. NLP 강의안 제작
 
 #### 2. NLP 논문 리뷰
-
-=======
->>>>>>> 30e85ed683239a713cca28de61cf5f48083159e4
