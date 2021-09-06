@@ -141,6 +141,7 @@ Computational Thinking Ⅱ|4시간|2021.01.13
 ### Ⅵ. 포트폴리오
 #### 1. 프로젝트
 :point_right: **KDX 소비트렌드 코리아 2020** [→ 자세히 보기](https://github.com/ne-choi/project/tree/main/Consumption_Trend_Analysis)  
+- 사용 언어: R
 - 작업툴: RStudio 
 - 인원: 3명  
 - 기간: 2020.10.12 - 2020.10.24  
@@ -154,7 +155,8 @@ Computational Thinking Ⅱ|4시간|2021.01.13
 <br>
 
 :point_right: **소설 작가 분류 AI 경진대회** [→ 자세히 보기](https://github.com/ne-choi/project/tree/main/Writer_Classification_AI)    
-- 작업툴: python
+- 사용 언어: Python
+- 작업툴: Jupyter notebook
 - 인원: 2명
 - 기간: 2020.12.03 - 2020.12.04
 - 내용
@@ -167,7 +169,8 @@ Computational Thinking Ⅱ|4시간|2021.01.13
 <br>
 
 :point_right: **2020 Kaggle Machine Learning & Data Science Survey** [→ 자세히 보기](https://github.com/ne-choi/project/tree/main/Kaggle_Survey_2020)  [→ 캐글에서 보기](https://www.kaggle.com/nechoi/the-future-of-ml-americans-vs-indians)
-- 언어 및 작업툴: python, jupyter notebook
+- 사용 언어: Python
+- 작업툴: Jupyter notebook
 - 인원: 1명
 - 기간: 2020.12.30 - 2021.01.06
 - 내용
@@ -177,6 +180,18 @@ Computational Thinking Ⅱ|4시간|2021.01.13
   - "The future of ML (Americans vs Indians)"  
 - 기여: 데이터 전처리, 시각화 및 분석
 <br>
+
+:point_right: **2021 금융 데이터 경진대회**  
+- 사용 언어: Python
+- 작업툴: google colab  
+- 인원: 3명  
+- 기간: 2021.08.01 - 2021.09.06  
+- 내용   
+  - 금융 데이터 활성화 도모 및 금융 데이터를 활용한 다양한 아이디어를 공모 (주제 선정 자유)
+    - 주제 선정 자유  
+- 선정 주제  
+  - ""  
+- 기여: 데이터 전처리 및 코드 작성, 결과 보고서 작성  
 
 ### Ⅵ. NLP
 #### 1. NLP 강의안 제작
