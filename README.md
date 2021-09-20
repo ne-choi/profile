@@ -59,7 +59,7 @@ Computational Thinking Ⅱ|4시간|2021.01.13
 
 ### Ⅳ. 경력
 
-1. **JnK Sceience**
+1. **JnK Science**
   - 기간: 2021.02 - 재직 중
   - 직무: 데이터 분석가 및 마케터
 
