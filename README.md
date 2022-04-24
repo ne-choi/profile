@@ -14,24 +14,24 @@
 <br>
 
 - **기타 교육**
-  - KB국민은행 & 패스트캠퍼스 DT개발 PRE-STEP
+- KB국민은행 & 패스트캠퍼스 DT개발 PRE-STEP
   - 기간: 2022.03.07 - 2022.05.12
   - 교육 시간: 34시간
   - 교육 내용: IT지식, SQL, Python
 
 <br>  
-  - KB국민은행 & 패스트캠퍼스 DT개발 STEP 1
+- KB국민은행 & 패스트캠퍼스 DT개발 STEP 1
   - 기간: 2022.04.09 - 2022.05.06
   - 교육 시간: 실시간 강의 32시간 + 인터넷강의 10시간
   - 교육 내용: Python 이론 및 실습
 
 <br>  
-  - POSTEC 청년 AI · Big Data 아카데미(MOOC) 
+- POSTEC 청년 AI · Big Data 아카데미(MOOC) 
   - 기간: 2020.11.02 - 2021.01.15  
   - 교육 시간: 103시간
   - 포항공과대학교 총장 수료증 발급  
   - 수료 내역 [→ 자세히 보기](https://github.com/ne-choi/study/tree/main/postech_mooc)
-    
+<br>      
     
 강의명|학습 시간|수료 일자
 |:--:|:--:|:--:|
@@ -79,24 +79,24 @@ Computational Thinking Ⅱ|4시간|2021.01.13
    - 직위: 대리
    - 세부 내용: 데이터 기반 고객 CRM 마케팅
    - 사용 툴: Oracle & Sybase (SQL)
-
-2. **JnK Science**
-  - 기간: 2021.02 -2021.12 (11개월)
-  - 부서: Data Science Team
-  - 직무: Data Analyst & Marketer
-  - 직위: 정규직 사원
-  - 세부 내용: 판매 및 광고 데이터 분석, 전환형 캠페인 운영
-  - 사용 툴: Google Colaboratory, Google Analytics, Google Ads, Facebook 광고관리자 등
+    
+ 2. **JnK Science**
+   - 기간: 2021.02 -2021.12 (11개월)
+   - 부서: Data Science Team
+   - 직무: Data Analyst & Marketer
+   - 직위: 정규직 사원
+   - 세부 내용: 판매 및 광고 데이터 분석, 전환형 캠페인 운영
+   - 사용 툴: Google Colaboratory, Google Analytics, Google Ads, Facebook 광고관리자 등
 
 3. **㈜메조미디어**  
-  - 기간: 2019.07 - 2020.07 (13개월)
-  - 부서: 디지털광고 1국2팀
-  - 직무: 미디어 플래너
-  - 직위: 정규직 사원
-  - 세부 내용: 광고 운영 및 성과 분석, 고객 타겟팅 데이터 관리, 미디어 믹스 작성, 광고주/대행사 관리, 비딩 참여, 지역 광고주 청약 담당
-  - 사용 툴: Google Analytics, Facebook 광고관리자, 네이버 NOSP 광고 시스템 등
-  - 교육: Google Analytics Academy, Facebook blueprint 수료, 다양한 광고 매체 설명회 참석
-  - 성과: 독립적 업무 수행, 월 10개 이상 캠페인 운영, 100개 이상 지역 광고주 청약 관리, 월 2회 이상 광고주/대행사 제안, 미팅 조율 및 참여
+   - 기간: 2019.07 - 2020.07 (13개월)
+   - 부서: 디지털광고 1국2팀
+   - 직무: 미디어 플래너
+   - 직위: 정규직 사원
+   - 세부 내용: 광고 운영 및 성과 분석, 고객 타겟팅 데이터 관리, 미디어 믹스 작성, 광고주/대행사 관리, 비딩 참여, 지역 광고주 청약 담당
+   - 사용 툴: Google Analytics, Facebook 광고관리자, 네이버 NOSP 광고 시스템 등
+   - 교육: Google Analytics Academy, Facebook blueprint 수료, 다양한 광고 매체 설명회 참석
+   - 성과: 독립적 업무 수행, 월 10개 이상 캠페인 운영, 100개 이상 지역 광고주 청약 관리, 월 2회 이상 광고주/대행사 제안, 미팅 조율 및 참여
 <br>
 
 ### Ⅴ. 경험
